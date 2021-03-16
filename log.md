@@ -20,6 +20,25 @@ Rust has been on my TO-DO list for a while now. All in all, I need to keep pract
 
 **Link to work:** [Permutations Leetcode](https://leetcode.com/problems/permutations/)
 
+### Day 2: March 16, 2020
+
+**Today's Progress**: Proceeded with Lecture 2 of the CS373 course. Did some more Leetcode.
+
+**Thoughts:**
+The lecture had some useful info about using counter-examples to quickly disprove potential algorithms.
+i.e. Try to find the smallest examples that can disprove a potential solution.
+These examples can come in handy in places like unit tests.
+There was an introduction to Big O and worst case complexity.
+
+I reviewed the permutations code from yesterday, and learned that `n!` gives you the number of permutations of an `n`-digit input.
+e.g. `[1, 2, 3]` will have `6` possible permutations.
+
+I followed up with a leetcode challenge, related to optimizing an algorithm.
+However, it was a topic I was familiar with and it was just a matter of adapting the solution to this question.
+Keep pushing!
+
+**Link to work:** [Perfect Number Leetcode](https://leetcode.com/problems/perfect-number/)
+
 
 <!-- ### Day 1: June 27, Monday
 
