@@ -9,7 +9,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 1: March 15, 2020
+### Day 1: March 15, 2021
 
 **Today's Progress**: Started the CS373 Algorithms Course.
 
@@ -20,7 +20,7 @@ Rust has been on my TO-DO list for a while now. All in all, I need to keep pract
 
 **Link to work:** [Permutations Leetcode](https://leetcode.com/problems/permutations/)
 
-### Day 2: March 16, 2020
+### Day 2: March 16, 2021
 
 **Today's Progress**: Proceeded with Lecture 2 of the CS373 course. Did some more Leetcode.
 
@@ -39,13 +39,17 @@ Keep pushing!
 
 **Link to work:** [Perfect Number Leetcode](https://leetcode.com/problems/perfect-number/)
 
+### Day 3: March 17, 2021
 
-<!-- ### Day 1: June 27, Monday
+**Today's Progress**: Completed Lecture 3 of the course. Did some more Leetcode, but not enough.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:**
+Today's lecture was about trying to analyze the worst case running time (Big O) of algorithms given their pseudocode.
+We also got into logs, and I watched some more explanatory videos to refresh my knowledge on this topic.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+I followed up with a couple of leetcode challenges, related to sorting and binary trees.
+Nothing too challenging yet though.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link to work:**
+[Largest Number Leetcode](https://leetcode.com/problems/largest-number/)
+[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
