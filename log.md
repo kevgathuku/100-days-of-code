@@ -51,5 +51,23 @@ I followed up with a couple of leetcode challenges, related to sorting and binar
 Nothing too challenging yet though.
 
 **Link to work:**
-[Largest Number Leetcode](https://leetcode.com/problems/largest-number/)
-[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+- [Largest Number Leetcode](https://leetcode.com/problems/largest-number/)
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+### Day 4: March 18, 2021
+
+**Today's Progress**: Completed Lecture 5 of the course. Did some more Leetcode, but it didn't feel enough.
+
+**Thoughts:**
+Today's lecture was about the basic data structures e.g. Arrays, dynamic arrays, stacks, linked lists, and queues.
+It's getting more practical every day and I like this part more than the theoretical parts.
+
+I was supposed to do a leetcode challenge, related to today's course content, but I chose to work on a challenge
+I had failed in an interview just last month. It was a challenging one and it took me quite a while.
+
+However, let's keep going. It feels like slow progress, but at the end of 100 days, it will be a lot of progress.
+
+**Link to work:**
+
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
