@@ -57,7 +57,7 @@ Nothing too challenging yet though.
 
 ### Day 4: March 18, 2021
 
-**Today's Progress**: Completed Lecture 5 of the course. Did some more Leetcode, but it didn't feel enough.
+**Today's Progress**: Completed Lecture 4 of the course. Did some more Leetcode, but it didn't feel enough.
 
 **Thoughts:**
 Today's lecture was about the basic data structures e.g. Arrays, dynamic arrays, stacks, linked lists, and queues.
@@ -71,3 +71,36 @@ However, let's keep going. It feels like slow progress, but at the end of 100 da
 **Link to work:**
 
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+### Day 5: March 19, 2021
+
+**Today's Progress**: Didn't quite complete lecture 5.
+
+**Thoughts:**
+Too tired! I'll catch up tomorrow.
+Didn't do any leetcode today. It was a crazy day, where I got involved in a road accident and the whole day
+was pretty much wasted by that incident.
+
+Trying to complete the lecture at 23:51 obviously does not help. I'll call it a day and pick up from there
+
+I'm grateful to be alive!
+
+**Link to work:**
+
+- N/A
+
+### Day 6: March 22, 2021
+
+**Today's Progress**: Finally completed what was left of Lecture 5. Did some binary tree problems.
+
+**Thoughts:**
+The problems today were kinda tough, but I'm glad I stuck through them. BSTs look deceptively easy, until you try
+to do an actual problem and realize that there's lots of edge cases. The concepts are mostly easy to grasp, but
+implementing them requires a great deal of attention to detail. I guess some things you just learn through practice.
+
+It felt like a productive day today!
+
+**Link to work:**
+
+- [Maximum Depth of Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
+- [Validate Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/)
