@@ -104,3 +104,113 @@ It felt like a productive day today!
 
 - [Maximum Depth of Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
 - [Validate Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/)
+
+### Day 7: March 23, 2021
+
+**Today's Progress**: Completed lecture 6 of Skiena's course, which introduced hashing and how it powers hash maps / dictionaries under the hood.
+
+**Thoughts:**
+
+For practice, I worked on a couple of problems requiring using a hashmap. It's been the most versatile data structure I've encountered yet
+
+**Link to work:**
+
+- [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+### Day 8: March 24, 2021
+
+**Today's Progress**: Completed lecture 7 of the course, which was about sorting algorithms
+
+**Thoughts:**
+
+For practice, I worked on a problem that required using merge sort, which for this case was merging two sorted lists.
+The trick: Construct a new dummy list, and create a reference to it, which you will manipulate.
+At the end, just return the `next` node of the original list, which should have all the elements added.
+
+**Link to work:**
+
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+### Day 9: March 25, 2021
+
+**Today's Progress**: Skipped the lecture and instead watched the Udemy course, which went over the details
+of the heap operations.
+
+**Thoughts:**
+I skipped the lecture, and focused on understanding heap operations in depth - insert, bubble up, extract min/max and bubble down.
+
+It's easy to trip up on the implementation as there's lots of edge cases to watch out for.
+
+**Link to work:**
+
+- N/A
+
+### Day 10: March 26, 2021
+
+**Today's Progress**: Also skipped the lecture and and focused on practicing heaps and linked lists.
+
+**Thoughts:**
+
+I chose to focus on a problem involving heap / heap sort, and especially getting the bubble up / bubble down operations right.
+It was categorized as `hard` so I feel really proud that I was able to solve it mostly by myself.
+Things are looking up 😀
+
+**Link to work:**
+
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
+### Day 11: March 29, 2021
+
+**Today's Progress**: Completed lecture 8 of the course, which was about divide and conquer algorithms - merge sort and quicksort
+
+**Thoughts:**
+
+The key to understand these divide and conquer algorithms is to understand recursion.
+
+Quicksort - choosing a pivot, splitting up the list, and doing it again recursively on the split lists
+Merge sort - splitting up the list into 2 every time, and calling merge sort again recursively on the split lists
+Also needs the `merge` operation to merge the sorted lists.
+
+**Link to work:**
+
+- N/A
+
+### Day 12: March 31, 2021
+
+**Today's Progress**: Didn't have enough time to focus on any of the courses today. Solved one leetcode.
+
+**Thoughts:**
+
+A lot was going on and I missed yesterday - March 30th.
+Anyway the best I could do today was a leetcode problem involving a variation of sorting - merging intervals.
+It was nice to make some progress. It didn't feel like enough, but it was better than nothing
+
+**Link to work:**
+
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+### Day 13: April 1, 2021
+
+**Today's Progress**: Completed lecture 9 of the course
+
+**Thoughts:**
+
+The course was about a breed of sorting algorithms that don't depend on comparison to sort the elements e.g. radix sort, which works well for sorting numbers
+
+It works on the basis of splitting the inputs into buckets e.g. how you would sort a deck of cards
+
+**Link to work:**
+
+- N/A
+
+### Day 14: April 2, 2021
+
+**Today's Progress**: Completed lecture 10 of the course, which introduced Graphs
+
+**Thoughts:**
+It's nice to finally go beyond sorting and grpahs look really interesting. I'm genuinely excited to learn about them.
+
+**Link to work:**
+
+- N/A
