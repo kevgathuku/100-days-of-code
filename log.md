@@ -214,3 +214,16 @@ It's nice to finally go beyond sorting and grpahs look really interesting. I'm g
 **Link to work:**
 
 - N/A
+
+### Day 15: April 5, 2021
+
+**Today's Progress**: Going to go deeper into graphs and how they are actually implemented in practice.
+
+**Thoughts:**
+
+Today is all about working out the finer details of working with graphs, and specifically adjacency lists.
+I worked on adding & removing vertices and edges, and also learnt how to do depth-first search to traverse a graph.
+
+**Link to work:**
+
+- [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
