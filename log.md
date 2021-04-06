@@ -227,3 +227,21 @@ I worked on adding & removing vertices and edges, and also learnt how to do dept
 **Link to work:**
 
 - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+
+### Day 16: April 6, 2021
+
+**Today's Progress**:
+
+I learnt about breadth first search, then tried to work on a leetcode problem. Didn't quite maange to figure it out,
+and will take a look tomorrow with some fresh eyes.
+
+**Thoughts:**
+
+I worked through the videos a bit, then decided to do some practical problems.
+Today's problem was really tough. I couldn't quite get a solution that worked for all the cases, and even the final
+solution I came up with only worked on 16/80 cases. I really need to practice more since it seems the questions can
+really blindside you. You think you've really understood a topic until you try to solve a leetcode problem.
+
+**Link to work:**
+
+- [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) - *Incomplete*
