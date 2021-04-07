@@ -245,3 +245,25 @@ really blindside you. You think you've really understood a topic until you try t
 **Link to work:**
 
 - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) - *Incomplete*
+
+### Day 17: April 7, 2021
+
+**Today's Progress**:
+
+I finally cracked the Reconstruct Itinerary problem. I checked out some YT videos that explained the problem
+really well and even covered the edge cases e.g. encountering a `source` with no `destination`, while the path
+is not yet complete. The constantly failing test just forced me to really understand the problem, and I think
+I'm better off 🙏🏿
+
+**Thoughts:**
+
+I tried watching Skiena's lecture, but I just couldn't concentrate until I had resolved the Reconstruct Itinerary problem
+on Leetcode
+
+This was a blessing in disguise since I took the time to really understand the problem, and not just gloss over it.
+It turns out my error was in the way I was constructing the graph, and not even related to the actual algorithm I
+was trying to implement 🤷
+
+**Link to work:**
+
+- [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
