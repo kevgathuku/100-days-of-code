@@ -267,3 +267,20 @@ was trying to implement 🤷
 **Link to work:**
 
 - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+### Day 18: April 8, 2021
+
+**Today's Progress**:
+
+I was able to complete Lecture 11 of the course, which was a more complete look at BFS, including cases where the graphs might
+not be connected. It was worth waiting for a time when I could fully focus on it, as I did learn a lot.
+
+**Thoughts:**
+
+After trying to work through the leetcode problem, I really appreciate the usefulness of BFS. I still haven't cracked it
+but I will get back to it tomorrow.
+As a side effect, I finally learnt how to represent graphs using an adjacency matrix.
+
+**Link to work:**
+
+- [Course Schedule](https://leetcode.com/problems/course-schedule/) - *Incomplete*
