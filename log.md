@@ -284,3 +284,28 @@ As a side effect, I finally learnt how to represent graphs using an adjacency ma
 **Link to work:**
 
 - [Course Schedule](https://leetcode.com/problems/course-schedule/) - *Incomplete*
+
+### Day 19: April 9, 2021
+
+**Today's Progress**:
+
+I was able to complete Lecture 12 of the course, which delved deep into DFS, and how it can be used.
+Luckily the professor talked about topological sort, which was the concept I needed to understand in order to solve
+my in-progress leetcode problem, which was about detecting cycles in DAGs.
+
+Even the professor himself said it would be a tough one to understand.
+
+**Thoughts:**
+
+Honestly, today was tough. I tried so many different approaches to the course scheduling problem, each one of them
+failing harder than the previous ones 😅
+
+I finally was able to solve it at the very end of the day, and the feeling of finally solving it after struggling with
+it for so long is really amazing 🌟
+
+This video was the one that made it finally click
+https://www.youtube.com/watch?v=AK7BuT5MgU0
+
+**Link to work:**
+
+- [Course Schedule](https://leetcode.com/problems/course-schedule/)
