@@ -309,3 +309,27 @@ https://www.youtube.com/watch?v=AK7BuT5MgU0
 **Link to work:**
 
 - [Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+### Day 20: April 12, 2021
+
+**Today's Progress**:
+
+I completed lecture 13 of the course, which was finishing up on topological sort, and introducing minimum spanning trees.
+
+**Thoughts:**
+
+Honestly, today was also tough. I understood the minimum spanning trees just superficially,
+and I'll need to go over some more resources to really get it.
+On leetcode, I continued with part 2 of the Courses Scheduling problem, which was about returning
+a valid ordering for the courses i.e. topological sort.
+I opted to continue with the DFS approach I used last week on part 1, and the pseudocode on Wikipedia.
+While I got stuck along the way, I finally solved it at the end of the day.
+
+Finally cracking these challenges after a long struggle feels really good 😀
+
+I feel like I'm getting better at it, and I'm now not really afraid of them.
+I just know in advance that they will be challenging, and that's okay. It's an opportunity to learn.
+
+**Link to work:**
+
+- [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
