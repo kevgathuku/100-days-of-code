@@ -333,3 +333,26 @@ I just know in advance that they will be challenging, and that's okay. It's an o
 **Link to work:**
 
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+
+### Day 21: April 13, 2021
+
+**Today's Progress**:
+
+I only made it halfway through lecture 14 of the course, which was a deep dive into Kuskal's algorithm for finding
+minimum spanning trees. It also introduced union-find algorithms.
+
+**Thoughts:**
+
+Today, I didn't do any leetcode problems.
+
+However, I learnt about an actual graph database https://dgraph.io/ and I'll need to play with it some more.
+I didn't find any leetcode covering the MST problem yet, so I guess that's why I wasn't too motivated.
+
+Anyway I will try to at least learn some more about the union-find, which seems the most applicable part of
+today's lecture.
+
+Today felt like one of those slow progress days, but at least there was some progress.
+
+**Link to work:**
+
+- N/A
