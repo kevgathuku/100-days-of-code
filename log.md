@@ -356,3 +356,30 @@ Today felt like one of those slow progress days, but at least there was some pro
 **Link to work:**
 
 - N/A
+
+### Day 22: April 14, 2021
+
+**Today's Progress**:
+
+I completed the rest of lecture 14, which introduced shortest path algorithms, and specifically Dijkstra's algorithm.
+
+**Thoughts:**
+
+Today, I also didn't do any leetcode problems, but I identified one that looks like a shortest path problem.
+Haven't attempted it yet, though.
+
+I also decided to set a kind of 'deadline' to apply for the job that's making me learn all of this stuff in the first place.
+End of June seems like a nice time to try it out.
+It should leave enough time to complete the course, and also like a full month of practice.
+
+I also acknowledge that this probably needs to be a long term thing, and whether I get the job or not, it does seem
+important to keep learning this stuff, or look for ways in which I can apply this knowledge, because without that,
+it won't be too long before I have to learn everything from scratch again.
+Processes > Goals.
+
+I also think that setting a deadline might help a bit in giving me the motivation to go through with the rest of the course.
+So end of June it is.
+
+**Link to work:**
+
+- N/A
