@@ -383,3 +383,27 @@ So end of June it is.
 **Link to work:**
 
 - N/A
+
+### Day 23: April 15, 2021
+
+**Today's Progress**:
+
+I watched lecture 15, which was a continuation on shortest paths, for example in instances where you need to find the
+shortest path from each node to every other node.
+
+**Thoughts:**
+
+Today, I was feeling very overwhelmed, especially from the sheer number of challenges on leetcode.
+However, after finding out the actual numbers, I just accepted that I won't do all of them, but making one step
+at a time is probably the best way to go.
+
+I somehow found a problem I had seen elsewhere this week, and was surprised to find out that the solution required
+a depth first search. These algorithms that I'm learning are really turning out to be useful, and it's nice to see
+some progress, and some practical applications of this stuff.
+
+It felt nice to solve the problem 😀
+
+
+**Link to work:**
+
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
