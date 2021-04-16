@@ -18,7 +18,9 @@ I finished lecture 1 of the course. Followed up with a leetcode challenge, which
 I encountered Rust while going through other developers' solutions and it felt very elegant.
 Rust has been on my TO-DO list for a while now. All in all, I need to keep practicing.
 
-**Link to work:** [Permutations Leetcode](https://leetcode.com/problems/permutations/)
+**Link to work:**
+
+- [Permutations Leetcode](https://leetcode.com/problems/permutations/)
 
 ### Day 2: March 16, 2021
 
@@ -403,7 +405,22 @@ some progress, and some practical applications of this stuff.
 
 It felt nice to solve the problem 😀
 
+### Day 24: April 16, 2021
+
+**Today's Progress**:
+
+I watched lecture 16, which introduced backtracking and covered a tiny bit of dynamic programming.
+
+**Thoughts:**
+
+Today I just had to really push through to complete the lecture, but I eventually did.
+The content today was definitely interesting, showing how solving stuff like generating permutations, subsets and
+sudoku problems work with backtracking.
+
+I didn't do a practical problem, but I revisited the problem I worked on on day 1 (permutations),
+and realized it's just a backtracking problem. The prof explained it really well, and now at least I get
+the logic behind it. I didn't work on any code problem, but I felt like learning the concept was a step forward.
 
 **Link to work:**
 
-- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [Permutations](https://leetcode.com/problems/permutations/)
