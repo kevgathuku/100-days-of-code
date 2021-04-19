@@ -424,3 +424,22 @@ the logic behind it. I didn't work on any code problem, but I felt like learning
 **Link to work:**
 
 - [Permutations](https://leetcode.com/problems/permutations/)
+
+### Day 25: April 19, 2021
+
+**Today's Progress**:
+
+I watched lecture 17, which was still about backtracking and it's more advanced use cases e.g. N-queens problem
+
+**Thoughts:**
+
+I'm still trying to get the basic case and still trying to get how the permutations problem can be solved
+using the backtracking technique.
+
+I realized that the initial solution I had on leetcode is just not intuitive enough, and I just don't get it.
+I've made some progress through watching some Youtube videos first, but still trying to push through and
+"get" it
+
+**Link to work:**
+
+- [Permutations](https://leetcode.com/problems/permutations/)
