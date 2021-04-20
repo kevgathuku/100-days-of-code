@@ -443,3 +443,25 @@ I've made some progress through watching some Youtube videos first, but still tr
 **Link to work:**
 
 - [Permutations](https://leetcode.com/problems/permutations/)
+
+### Day 26: April 20, 2021
+
+**Today's Progress**:
+
+I watched lecture 18, which introduced dynamic programming.
+
+**Thoughts:**
+
+I've always struggled with dynamic programming and I hope this time I can finally get it.
+The explanation today from the point of view of fibonacci numbers was intuitive and I think I got it.
+Let's see how the rest goes.
+
+About backtracking, I finally found a solution I can understand to the permutations problem.
+It made it easy to follow the DFS tree and it will give me a point to refer to in the future.
+
+It felt really good to finally get something that I can understand, and now I can move on to other problems,
+and see whether the same approach works.
+
+**Link to work:**
+
+- [Permutations](https://leetcode.com/problems/permutations/)
