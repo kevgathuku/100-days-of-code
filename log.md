@@ -465,3 +465,25 @@ and see whether the same approach works.
 **Link to work:**
 
 - [Permutations](https://leetcode.com/problems/permutations/)
+
+### Day 27: April 21, 2021
+
+**Today's Progress**:
+
+I watched lecture 19, which introduced dynamic programming to solve edit distance problems
+
+**Thoughts:**
+
+Learnt about some uses of Dynamic Programming e.g.  edit distance problems,
+which I've encountered in many past interviews.
+
+It seems the general steps to solving DP problems are:
+- Figure out the recurrence relation
+- Figure out the base case
+- Solve for the intermediate states between the base case and your desired solution
+
+I think I got the concept, but this topic has always been tough, so I'll need a lot of practice to make it stick
+
+**Link to work:**
+
+- N/A
