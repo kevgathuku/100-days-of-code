@@ -487,3 +487,20 @@ I think I got the concept, but this topic has always been tough, so I'll need a 
 **Link to work:**
 
 - N/A
+
+### Day 28: April 22, 2021
+
+**Today's Progress**:
+
+I got halfway through lecture 20, which was still about edit distance problems.
+
+**Thoughts:**
+
+The edit distance algorithm can be modified to solve other variations
+e.g. longest common sequence, # of characters to delete to form some string, etc.
+
+I needed to do more practice and didn't really get to it. I'll need to fix this soon
+
+**Link to work:**
+
+- N/A
