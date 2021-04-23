@@ -504,3 +504,21 @@ I needed to do more practice and didn't really get to it. I'll need to fix this 
 **Link to work:**
 
 - N/A
+
+### Day 29: April 23, 2021
+
+**Today's Progress**:
+
+I finished the rest of lecture 20.
+
+**Thoughts:**
+
+The benefit from watching more lectures is now diminishing. It's time to start practicing
+dynamic programming questions.
+
+I started on one edit distance problem and still trying to work through it, using the lecture notes
+as a guide.
+
+**Link to work:**
+
+- [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) - *Incomplete*
