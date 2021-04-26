@@ -522,3 +522,21 @@ as a guide.
 **Link to work:**
 
 - [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) - *Incomplete*
+
+### Day 30: April 26, 2021
+
+**Today's Progress**:
+
+No lectures today. I decided to focus on doing some practical DP / edit distance problems.
+
+**Thoughts:**
+
+I finished up the Edit distance problem that was bugging me since Friday, and also ended up doing another
+related problem i.e. Longest Common Subsequence
+
+It felt really good solving these problems, and I'm looking forward to solving more.
+Dynamic programming has kicked my ass for long enough 😅
+
+**Link to work:**
+
+- [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) - *Incomplete*
