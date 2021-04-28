@@ -546,7 +546,7 @@ Dynamic programming has kicked my ass for long enough 😅
 
 **Today's Progress**:
 
-Continued with Lecture 21 toda, which went over more examples of dynamic programming.
+Continued with Lecture 21, which went over more examples of dynamic programming.
 
 **Thoughts:**
 
@@ -556,3 +556,20 @@ Anyway I was able to follow today's examples, so I'm also starting to get the ha
 **Link to work:**
 
 - Reviewed past DP Interview Question
+
+### Day 32: April 28, 2021
+
+**Today's Progress**:
+
+Completed Lecture 22, which was about even more examples of dynamic programming.
+
+**Thoughts:**
+
+Today's examples were a bit more complicated, and I'm not sure I would encounter them in an interview.
+
+I also started watching the complementary dynamic programming course, and I like how it starts from the
+ground up, and even explain *why* & *how* dynamic programming is better than recursion.
+
+**Link to work:**
+
+- N/A
