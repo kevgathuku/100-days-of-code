@@ -539,4 +539,20 @@ Dynamic programming has kicked my ass for long enough 😅
 
 **Link to work:**
 
-- [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) - *Incomplete*
+- [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+### Day 31: April 27, 2021
+
+**Today's Progress**:
+
+Continued with Lecture 21 toda, which went over more examples of dynamic programming.
+
+**Thoughts:**
+
+It seems this is a really tough / important topic, because the prof has spent quite a lot of time on it.
+Anyway I was able to follow today's examples, so I'm also starting to get the hang of it.
+
+**Link to work:**
+
+- Reviewed past DP Interview Question
