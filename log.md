@@ -573,3 +573,50 @@ ground up, and even explain *why* & *how* dynamic programming is better than rec
 **Link to work:**
 
 - N/A
+
+### Day 33: April 29, 2021
+
+**Today's Progress**:
+
+Skipped Skiena's lectures today, and watched the [dynamic programming YouTube course](https://www.youtube.com/watch?v=QlT4HG93Gaw&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf) instead
+
+**Thoughts:**
+
+The course explained the dynamic programming concepts really well, and even provided a framework with which
+to evaluate dynamic programming problems.
+
+It really helped a lot, since I was able to solve the unique paths problem all by myself.
+To be fair, it was very similar to the stair case problem, that was explained in the course contents.
+
+I'll reproduce the framework here, with the values for the unique paths problem, since it was so helpful:
+
+1. Objective function
+>  - F(m, n) => # of ways to go from (0,0) to (m, n)
+> - Can only move right(0,1) or down(1,0)
+2. Base cases
+> - F(0, 0) = 1
+> - F(0, 1) = 1 -> For the whole of the first row, the answer will be 1 (Only 1 way to go: Right)
+> - F(1, 0) = 1 -> For the whole of the first column, the answer will be 1 (Only 1 way to go: Down)
+> - F(1, 1) = 2 -> sum of the previous two
+
+3. Recurrence relation
+> - F(m, n) = F(m-1, n) + F(n-1, m)
+
+4. Order of execution
+> - bottom up
+
+5. Where to look for answer
+> - Solution will be in bottom right -> matrix[m-1][n-1]
+
+This framework also made it easy to solve the variation of the problem i.e. unique paths with obstacle
+
+*Postscript:* <br/>
+1/3 of the way done, and I've come such a long way from where I started. I really appreciate the decision I made
+to get started on this series. It's been tough, but I've discovered that I'm capable of so much, and I've got to
+keep going and learn as much as I can.
+To making more progress 🍻
+
+**Link to work:**
+
+- [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
