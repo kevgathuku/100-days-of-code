@@ -620,3 +620,23 @@ To making more progress 🍻
 
 - [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+
+### Day 34: April 30, 2021
+
+**Today's Progress**:
+
+Watched a couple more lectures from the [dynamic programming YouTube course](https://www.youtube.com/watch?v=QlT4HG93Gaw&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf) and I just like it better.
+
+It's making this whole topic very understandable.
+
+**Thoughts:**
+
+It also seems that by starting from Skiena's course, I learnt most of this stuff backwards.
+I should have started with the easy cases, like the ones here, and then built up this knowledge from there on.
+
+Starting from the more complicated ones just makes this topic look harder than it might actually be.
+
+**Link to work:**
+
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
