@@ -640,3 +640,44 @@ Starting from the more complicated ones just makes this topic look harder than i
 
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+
+### Day 35: May 3, 2021
+
+**Today's Progress**:
+
+Continued with the original algorithms course, and started learning about NP-completeness
+
+Watched one more lecture from the [dynamic programming YouTube course](https://www.youtube.com/watch?v=QlT4HG93Gaw&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf) and I still like it better.
+
+
+**Thoughts:**
+
+Really struggled to complete Skiena's lecture.
+
+**Link to work:**
+
+- N/A
+
+
+### Day 36: May 4, 2021
+
+**Today's Progress**:
+
+Continued with the original algorithms course, and continued learning about NP-completeness.
+However, at this point I've got the maximum value from the course, and I'll stop there.
+
+I can always revisit these topics later, when I actually need them.
+
+**Thoughts:**
+
+Really struggled to complete Skiena's lecture, again. I think it's way too theoretical, and not
+too relevant for what I'm preparing for.
+It's been really helpful, and I'm confident the bulk of what I need to know has already been covered in the
+lectures I've watched.
+
+Still going to go through with the [dynamic programming YouTube course](https://www.youtube.com/watch?v=QlT4HG93Gaw&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf) as I still have a lot to learn on that topic.
+
+**Link to work:**
+
+- N/A
