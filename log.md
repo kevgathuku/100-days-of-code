@@ -681,3 +681,22 @@ Still going to go through with the [dynamic programming YouTube course](https://
 **Link to work:**
 
 - N/A
+
+### Day 37: May 5, 2021
+
+**Today's Progress**:
+
+Continued with the Dynamic Programming course, and watched lectures on Top Down vs Bottom up solutions
+for DP Problems. Today we also went through the coin change problem
+
+**Thoughts:**
+
+Still trying to keep up with dynamic programming, and today I think I got the concept behind
+the coin change problem.
+
+However, when attempting it on leetcode, it was a bit trickier than I thought, and my solution was too slow.
+I had mostly borrowed it, but I understood what was going on, and I'll just proceed to optimize it next time.
+
+**Link to work:**
+
+- [Coin Change](https://leetcode.com/problems/coin-change/)
