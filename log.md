@@ -699,4 +699,27 @@ I had mostly borrowed it, but I understood what was going on, and I'll just proc
 
 **Link to work:**
 
+- [Coin Change](https://leetcode.com/problems/coin-change/) - *Incomplete*
+
+### Day 38: May 6, 2021
+
+**Today's Progress**:
+
+Continued with the Dynamic Programming course, and watched lectures on variations of the coin change problem
+
+**Thoughts:**
+
+I found it really hard to concentrate, but somehow I finally managed to solve the coin change problem,
+thanks to this [awesome video explanation](https://www.youtube.com/watch?v=H9bfqozjoqs)
+
+I realized that I was stuck with the top down approach (recursion + memoization), which is harder anyway.
+However, I found that it's necessary to start there so as to be able to figure out the DP solution.
+
+It felt really awesome to finally crack it, and I feel really good about such problems going forward.
+For DP, it now feels like I have to practice with the string problems, and the more tricky ones e.g. frog jump
+
+However, I'm very happy with my progress so far ☀️
+
+**Link to work:**
+
 - [Coin Change](https://leetcode.com/problems/coin-change/)
