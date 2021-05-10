@@ -723,3 +723,40 @@ However, I'm very happy with my progress so far ☀️
 **Link to work:**
 
 - [Coin Change](https://leetcode.com/problems/coin-change/)
+
+### Day 39: May 7, 2021
+
+**Today's Progress**:
+
+Continued with the Dynamic Programming course, and watched more lectures on variations of the coin change problem
+
+**Thoughts:**
+
+I noticed that just watching videos with no concrete aim doesn't quite work for me,
+as I'm more focused with a problem in front on me 🤔
+
+Will still keep going, taking this into account
+
+**Link to work:**
+
+- N/A
+
+
+### Day 40: May 10, 2021
+
+**Today's Progress**:
+
+Watched one more video from the DP course, on how to use dynamic programming to find the
+shortest path in a graph
+
+**Thoughts:**
+
+Decided to focus on interview questions that have appeared before in the company I'm targeting.
+At least this should give me exposure to a few more topics that I might be rusty in.
+
+I struggled on a backtracking problem, and I'll get back to it and make sure I get it.
+
+**Link to work:**
+
+- [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+- [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) - *Incomplete*
