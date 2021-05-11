@@ -760,3 +760,20 @@ I struggled on a backtracking problem, and I'll get back to it and make sure I g
 
 - [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 - [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) - *Incomplete*
+
+### Day 41: May 11, 2021
+
+**Today's Progress**:
+
+Continued with trying to solve the backtracking problem from yesterday
+
+**Thoughts:**
+
+I came up with a different approach, backtracking + pruning, but it's still timing out on large inputs ⏳
+I've exhausted my own ideas, and next I'll start exploring how others have solved the problem, and learn from them.
+
+I've identified a few videos on the topic, and I'll try to really understand it tomorrow.
+
+**Link to work:**
+
+- [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) - *Incomplete*
