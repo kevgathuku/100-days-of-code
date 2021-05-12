@@ -777,3 +777,21 @@ I've identified a few videos on the topic, and I'll try to really understand it 
 **Link to work:**
 
 - [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) - *Incomplete*
+
+### Day 42: May 12, 2021
+
+**Today's Progress**:
+
+Finally solved the backtracking problem that I've been battling the last 2 days
+
+**Thoughts:**
+
+The solution I found was way simpler and faster than what I was doing before.
+Just shows that the simplicity is the end result of a lot of hard work, not the beginning.
+
+I explored a couple more questions after this, but didn't really attempt them.
+That's a good starting point for tomorrow.
+
+**Link to work:**
+
+- [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
