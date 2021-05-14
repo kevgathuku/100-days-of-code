@@ -795,3 +795,20 @@ That's a good starting point for tomorrow.
 **Link to work:**
 
 - [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+
+### Day 43: May 13, 2021
+
+**Today's Progress**:
+
+Worked on a couple of leetcode questions, covering binary trees and arr
+
+**Thoughts:**
+
+I struggled with one of them, and just learned from others solutions.
+It also didn't help that I was getting random runtime errors, but I got through it.
+
+
+**Link to work:**
+
+- [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
