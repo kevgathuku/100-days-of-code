@@ -800,15 +800,30 @@ That's a good starting point for tomorrow.
 
 **Today's Progress**:
 
-Worked on a couple of leetcode questions, covering binary trees and arr
+Worked on a couple of leetcode questions, covering binary trees and arrays / sorting
 
 **Thoughts:**
 
 I struggled with one of them, and just learned from others solutions.
 It also didn't help that I was getting random runtime errors, but I got through it.
 
-
 **Link to work:**
 
 - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 - [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+
+### Day 44: May 14, 2021
+
+**Today's Progress**:
+
+Worked on 2 more leetcode questions, refreshing my knowledge on tries and binary trees.
+
+**Thoughts:**
+
+I had assumed I had mastered tries, but I quickly learnt I forgot almost everything.
+I had solved a trie problem on Hackerrank a while back, and I pretty much relied on that to get through this one.
+
+**Link to work:**
+
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [Same Tree](https://leetcode.com/problems/same-tree/)
