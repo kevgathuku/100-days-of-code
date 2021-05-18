@@ -827,3 +827,45 @@ I had solved a trie problem on Hackerrank a while back, and I pretty much relied
 
 - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [Same Tree](https://leetcode.com/problems/same-tree/)
+
+### Day 45: May 17, 2021
+
+**Today's Progress**:
+
+Taking a break from the leetcode questions, and moving on to some practical stuff, with Elixir.
+
+**Thoughts:**
+
+I'll be exploring practical stuff like, where are queues / trees used in practice?
+To make it interesting I'll be using Elixir which I've always wanted to learn in depth.
+Just today, I checked out topological sort and how it's used in mix, the package manager.
+However, I'll come back to this later on.
+
+**Link to work:**
+
+- N/A
+
+### Day 46: May 18, 2021
+
+**Today's Progress**:
+
+Started exploring Elixir once again, and it felt so nice. This is the language that just works for me.
+
+**Thoughts:**
+
+Today was just a crash course in the syntax and semantics.
+It felt really good re-learning this and figuring out some stuff that's just so elegant in Elixir
+
+Just look at this to generate permutations:
+
+```elixir
+def permute([]), do: [[]]
+def permute(lst) do
+  for head <- lst, rest <- permute(lst -- [head]), do: [head | rest]
+end
+```
+
+**Link to work:**
+
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [Same Tree](https://leetcode.com/problems/same-tree/)
