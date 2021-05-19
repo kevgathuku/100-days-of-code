@@ -867,5 +867,21 @@ end
 
 **Link to work:**
 
-- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
-- [Same Tree](https://leetcode.com/problems/same-tree/)
+- N/A
+
+### Day 47: May 19, 2021
+
+**Today's Progress**:
+
+Continued exploring Elixir, and learned more about processes, and how to manage state & concurrent operations.
+It's amazing because most languages don't have these concepts inbuilt.
+
+**Thoughts:**
+
+Followed up on a few more things - processes, Enum/List operations, and IO operations.
+I'm also just realizing how intuitive this is becoming after working with Ruby at work for the past year.
+I'm also realizing how to better write the software I was writing before with Elixir e.g. The torrent client
+
+**Link to work:**
+
+- N/A
