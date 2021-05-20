@@ -885,3 +885,21 @@ I'm also realizing how to better write the software I was writing before with El
 **Link to work:**
 
 - N/A
+
+### Day 48: May 20, 2021
+
+**Today's Progress**:
+
+Continued exploring Elixir, and learned more about IO and working with files.
+Also kept going with 30 days of Elixir, and learned some more about maps.
+
+**Thoughts:**
+
+Turns out opening and writing to files in Elixir all works in processes. Didn't know that.
+
+It seems I'll just keep posting these updates here as there's just less pressure 🙂
+Let me keep off Twitter for a while. However, it has been extremely useful in knowing how to summarize stuff.
+
+**Link to work:**
+
+- N/A
