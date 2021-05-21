@@ -903,3 +903,20 @@ Let me keep off Twitter for a while. However, it has been extremely useful in kn
 **Link to work:**
 
 - N/A
+
+### Day 49: May 21, 2021
+
+**Today's Progress**:
+
+Covered Structs in Elixir. Created the blog.
+
+**Thoughts:**
+
+I created the blog and even started writing the first post - 0 to 100 with Elixir.
+Maybe this is something I can write as I go, rather than a one-off.
+
+Maybe I should just get to the point - Cooking up the first algorithm - Topological sort.
+
+**Link to work:**
+
+- https://non-fault-proof.ghost.io/
