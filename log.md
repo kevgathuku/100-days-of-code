@@ -920,3 +920,26 @@ Maybe I should just get to the point - Cooking up the first algorithm - Topologi
 **Link to work:**
 
 - https://non-fault-proof.ghost.io/
+
+### Day 50: May 24, 2021
+
+**Today's Progress**:
+
+Not too sure I'll keep going with Elixir. But we'll see.
+Today I was exploring crypto, and specifically how AMM work, and the associated risks.
+
+**Thoughts:**
+
+A lucky event over the weekend triggered my interest in crypto once again.
+Today I was mostly researching and trying to figure out how automated market making works.
+Specficially, I was looking at the math of providing liquidity vs holding tokens.
+
+I'm very convinced that crypto is here to stay, and even better, it combines 2 of my interests - code and finance.
+I'll see if I'll keep going in this direction.
+
+However, it seems exploring niche languages might not be necessary. Maybe I should be working more with the
+languages I'm already using at work. There's a lot of room for improvement there, even if I use them daily.
+
+**Link to work:**
+
+- N/A
