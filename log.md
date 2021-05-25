@@ -943,3 +943,17 @@ languages I'm already using at work. There's a lot of room for improvement there
 **Link to work:**
 
 - N/A
+
+### Day 51: May 25, 2021
+
+**Today's Progress**:
+
+Didn't do much today. Checked out 30 days of Elixir and learnt about records and structs
+
+**Thoughts:**
+
+Still spent some time exploring Crypto / DeFi and also checked out Elixir records, which are totally new for me.
+
+**Link to work:**
+
+- N/A
