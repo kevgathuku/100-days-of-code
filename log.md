@@ -957,3 +957,24 @@ Still spent some time exploring Crypto / DeFi and also checked out Elixir record
 **Link to work:**
 
 - N/A
+
+### Day 52: May 26, 2021
+
+**Today's Progress**:
+
+I think it's now clear that I won't be giving much attention to just algorithms for interviews going forward.
+However, what would happen if I dedicated this time to really learn about crypto?? I guess we'll find out.
+
+**Thoughts:**
+
+I'll dedicate the latter half of this challenge to crypto.
+The crypto / DeFi world seems to have a lot of opportunities, and really all that's required is to show up.
+Better still, there's some algorithms knowledge required there.
+
+Today I set up a wallet on the Binance Smart Chain, and was able to transfer some BNB from Binance to the wallet.
+I was also able to setup yield farming with these tokens. The rates here are much higher than in the Binance liquidity pools,
+so I'll compare after a month or so and see the progress.
+
+**Link to work:**
+
+- N/A
