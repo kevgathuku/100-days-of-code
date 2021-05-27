@@ -978,3 +978,26 @@ so I'll compare after a month or so and see the progress.
 **Link to work:**
 
 - N/A
+
+### Day 53: May 27, 2021
+
+**Today's Progress**:
+
+Continued learning about crypto, and read the basics of ERC-20 tokens.
+Turns out the spec is very short and clear, and it seems really straightforward to create one.
+Maybe I should actually create one to practice 🤔
+
+**Thoughts:**
+
+I also started going through a [Blockchain and Money course](https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn&index=1) and I'm genuinely excited for this.
+Maybe it's because I'm just doing it to fulfill my curiosity, and not with a shallow goal in mind, like impressing
+some recruiters.
+
+Anyway I'll keep going in this direction and see where it leads me.
+
+There's not that many people in this space, while the demand is almost certain to grow.
+I just need to be on the right side of that equation, having the skills in demand that there's not too much competition for
+
+**Link to work:**
+
+- N/A
