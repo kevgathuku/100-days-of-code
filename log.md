@@ -1001,3 +1001,26 @@ I just need to be on the right side of that equation, having the skills in deman
 **Link to work:**
 
 - N/A
+
+### Day 54: May 28, 2021
+
+**Today's Progress**:
+
+Continued learning about crypto, and learnt about auto-compouding liquidity pools.
+
+**Thoughts:**
+
+These liquidity pools automatically plow back the earnings into the selected pool e.g. CAKE-BNB on Pancakeswap.
+Ideally, this is what you would do manually, but they just automate it for you, automatically increasing the rates.
+
+So the units keep increasing, without adding any new funds.
+When the prices are dropping, it's even better since the price per additional unit decreases.
+A good example is beefy.finance.
+
+This is exacly what you want to be happening and the fact that I can get access to such platforms is crazy.
+
+Let's see how long this can last
+
+**Link to work:**
+
+- N/A
