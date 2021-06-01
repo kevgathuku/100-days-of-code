@@ -1024,3 +1024,20 @@ Let's see how long this can last
 **Link to work:**
 
 - N/A
+
+### Day 55: May 31, 2021
+
+**Today's Progress**:
+
+Continued with the Blockchain and Money course, and watched lecture 2.
+
+**Thoughts:**
+
+I'm loving the course.
+
+It seems like the kind of content I should have learnt back when I was studying economics.
+I also love that it's very practical, and I'm just excited to learn the basics.
+
+**Link to work:**
+
+- N/A
