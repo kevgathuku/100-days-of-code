@@ -1041,3 +1041,26 @@ I also love that it's very practical, and I'm just excited to learn the basics.
 **Link to work:**
 
 - N/A
+
+### Day 56: June 1, 2021
+
+**Today's Progress**:
+
+Watched part of the Blockchain and Money course, lecture 3.
+I also read the Bitcoin paper for the first time, and explored some resources on how blockchains work.
+
+**Thoughts:**
+
+I'm still loving the course.
+
+The paper was part of the required readings, and I'm very glad the course made me read it.
+I got at least part of it, and I'm loving the technical bits - the hashing, merkle trees, and related stuff.
+
+This feels very strongly like what I should be focusing on day to day. The blockchain is a valuable skill to learn,
+and it's definitely niche enough to maybe command a good salary.
+
+The primary way I hope to learn practically is by exploring the projects I already use, since most of them are open source.
+
+**Link to work:**
+
+- N/A
