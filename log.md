@@ -1064,3 +1064,25 @@ The primary way I hope to learn practically is by exploring the projects I alrea
 **Link to work:**
 
 - N/A
+
+**Resources:**
+
+- [Blockchain 101](https://www.youtube.com/watch?v=_160oMzblY8)
+
+### Day 57: June 2, 2021
+
+**Today's Progress**:
+
+Continued with Lecture 3 of Blockchain and Money course.
+
+**Thoughts:**
+
+The lecture was about the technical details of bitcoin, and other blockchains in general.
+i.e. how it works under the hood - hash functions, how nodes work, contents of a block header, etc.
+
+I also started checking out the code for one of the projects I already use for yield farming, and it's in React.
+I'll continue exploring that side too, to learn the practical aspects.
+
+**Link to work:**
+
+- N/A
