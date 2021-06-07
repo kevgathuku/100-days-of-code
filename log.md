@@ -1086,3 +1086,40 @@ I'll continue exploring that side too, to learn the practical aspects.
 **Link to work:**
 
 - N/A
+
+### Day 58: June 3, 2021
+
+**Today's Progress**:
+
+Finally finished Lecture 3 of the Blockchain and Money course.
+
+**Thoughts:**
+
+I learnt about how public key cryptography is used in bitcoin, and also explored how it's used generally.
+Also explored Merkle trees and how they are used to compress / store the transaction data.
+
+Learned that public key cryptography was created to solve a problem where 2 people need to share some sensitive info,
+without needing to have the same key / password.
+
+**Link to work:**
+
+- N/A
+
+### Day 59: June 4, 2021
+
+**Today's Progress**:
+
+Started watching a practical course on YouTube on how to create a decentralized app.
+I started following along and it seems the tooling has really come a long way.
+
+**Thoughts:**
+
+Turns out there's very good libraries out there that make working with smart contracts easier.
+There's Truffle and [Ganache](https://www.trufflesuite.com/ganache), which make interacting with the
+smart contracts and testing much easier.
+
+I like this way of doing things and I'll keep following along the course
+
+**Link to work:**
+
+- N/A
