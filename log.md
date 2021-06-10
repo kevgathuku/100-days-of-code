@@ -1123,3 +1123,23 @@ I like this way of doing things and I'll keep following along the course
 **Link to work:**
 
 - N/A
+
+### Day 60: June 10, 2021
+
+**Today's Progress**:
+
+Took a break there where I was more interested in researching stocks and reading annual reports.
+
+Continued with the MIT Blockchain course, and completed lecture 4.
+
+**Thoughts:**
+
+The remaining part of the lecture was all about proof of work and how it works on the bitcoin blockchain.
+i.e. the dificulty (leading zeros) and how often it's changed, the reward mechanism (through coinbase transactions),
+the various roles e.g. miners and mining pools.
+
+It was a very interesting lecture overall.
+
+**Link to work:**
+
+- N/A
