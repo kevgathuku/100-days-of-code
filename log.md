@@ -1143,3 +1143,22 @@ It was a very interesting lecture overall.
 **Link to work:**
 
 - N/A
+
+### Day 61: June 14, 2021
+
+**Today's Progress**:
+
+Continued with the MIT Blockchain course, and started lecture 5.
+
+**Thoughts:**
+
+It was all about how transactions work on bitcoin, including how balances are maintained.
+e.g. Any balance left over from a transaction is also sent to your own address.
+There's also the fact that the coinbase transaction (reward to miners for solving proof of work) is
+usually included as the first transaction in the merkle tree.
+
+Also, balances don't really exist, and the money you can send is really an output from a previous transaction.
+
+**Link to work:**
+
+- N/A
