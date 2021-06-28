@@ -1162,3 +1162,55 @@ Also, balances don't really exist, and the money you can send is really an outpu
 **Link to work:**
 
 - N/A
+
+### Day 62: June 22, 2021
+
+**Today's Progress**:
+
+Continued with the MIT Blockchain course, and watched lecture 6, regarding dApps and Smart Contracts.
+
+**Thoughts:**
+
+The takeaway is that smart contracts exist in the framework of the law.
+An interesting point is they might help in enforcing transactions / reducing transaction costs
+in areas where the law is not as strong, or even respected.
+It might help provide that bridge in places where that infrastructure might be non-existent or not stable.
+
+**Link to work:**
+
+- N/A
+
+### Day 63: June 28, 2021
+
+**Today's Progress**:
+
+Tried working with the Terra blockchain, which I've been exploring lately.
+
+**Thoughts:**
+
+There's the Anchor protocol and Mirror finance, which are built on top of the Terra blockchain.
+
+I was able to move funds (UST) successfully from the Binance Smart Chain onto the Terra Blockhain using the [bridge](https://bridge.terra.money/).
+
+I also learnt about collateralized loans and how they work on the anchor protocol.
+
+The basic idea is that you provide collateral (in an unstable currency e.g. LUNA),
+and can borrow a stablecoin against that collateral (UST).
+
+If the value of Luna rises, you can borrow even more UST against the same collateral.
+If the value falls below a certain threshold, the protocol can liquidate your collateral.
+To avoid this, you can add more collateral.
+
+It's very fascinating since now you can even earn ANC (Anchor protocol token) for taking out a loan.
+There's a fee that you earn, and if it's more than the borrowing rate, you get paid to borrow.
+
+It's just interesting what's possible in the crypto world.
+
+There's also the Mirror protocol, where you can provide liquidity for people to trade mAssets (assets that mirror a stock's price)
+So every time people trade, you earn fees. This seems to be a bit less riskier than cryptoassets, which can fluctuate wildly.
+
+So I've done these 2 experiments and I'll be watching to see what happens next.
+
+**Link to work:**
+
+- N/A
