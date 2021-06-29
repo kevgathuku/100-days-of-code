@@ -1214,3 +1214,30 @@ So I've done these 2 experiments and I'll be watching to see what happens next.
 **Link to work:**
 
 - N/A
+
+### Day 64: June 29, 2021
+
+**Today's Progress**:
+
+Continued learning more about the Terra blockchain, and specifically the Anchor protocol.
+
+**Thoughts:**
+
+I tried to learn more about the Anchor protocol.
+
+I learned that the part I understood the least is the borrowing part, so I'll keep away from it for now.
+The idea is not to be exposed to things, where you're hoping for the price to go up.
+
+I put some funds in the ANC-UST Liquidity pool, since at least I can understand how this works.
+
+I exhausted my UST when trying to repay a small loan I had took to try out the product.
+
+Lesson learnt:
+Don't spend all your UST (native token), as it might make you unable to make any more transactions,
+due to lack of gas fees.
+On the flip side, this is good since I won't be making any more transactions in the near future, and can now
+objectively analyze the various products based on their return.
+
+**Link to work:**
+
+- N/A
