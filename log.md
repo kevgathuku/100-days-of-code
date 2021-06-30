@@ -1241,3 +1241,31 @@ objectively analyze the various products based on their return.
 **Link to work:**
 
 - N/A
+
+### Day 65: June 30, 2021
+
+**Today's Progress**:
+
+Started catching up on the Blockchain course, and started watching Lecture 7.
+
+**Thoughts:**
+
+Today's content was all about the scaling issues of blockchain technologies.
+It turns out that VISA can do 24,000 transactions per second vs Bitcoin at 7, and Eth at 20.
+
+The more usage the blockchain encounters, the more info they have to store e.g. each node having to keep
+a complete history of valid blocks. This might be one the issues contributing to the lack of scalability.
+
+There have been some proposals on how to remove the need for absolutely all the info to be stored on the blockhain.
+There was a reading about using more scaled down versions for 2-person transactions, such that some of the data
+can be contained just in that channel between the 2 of them. Not all of it needs to be broadcast and included in a new block.
+
+There's also the tradeoff between security, scalability and decentralization.
+
+There was also an interesting paper on how blockchains could be used in Finance, considering all those different
+tradeoffs and comparing the current centralized model to a decentralized blockchain network.
+
+**Resources:**
+
+- [Transaction Speeds Compared](https://howmuch.net/articles/crypto-transaction-speeds-compared)
+- [The Impact of Blockchain Technology on Finance: A Catalyst for Change](https://voxeu.org/system/files/epublication/Geneva21.pdf)
